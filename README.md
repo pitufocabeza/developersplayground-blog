@@ -30,7 +30,7 @@ needs to be addressed, please don't hesitate to open a pull request and fix it!
 - Muhammad Muhsin - [Using React Context API with Gatsby](https://www.gatsbyjs.org/blog/2019-01-31-using-react-context-api-with-gatsby/)
 
 ## Special Thanks
-A very special thank you goes to [Tania Rascia](https://taniarascia.com) for giving me the tools and the inspiration to start my own blog.
+A very special thank goes to [Tania Rascia](https://taniarascia.com) for giving me the tools and the inspiration to start my own blog.
 
 ## Author
 
