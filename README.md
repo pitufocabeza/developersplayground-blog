@@ -1,59 +1,41 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby's personal blog starter
-</h1>
+# developersplayground.com
 
-<img alt="screesnhot" src="./screenshot.png">
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-This starter is a fork of Gatsby Starter Blog, the most popular starter by far – with second place being Gatsby Starter Netlify CMS. So I decided to combine the 2!
+Sascha's personal website running on Gatsby, React and Node.js.
 
-## 🚀 Quick start
+## Note
 
-1.  **Create a Gatsby site.**
+I've made my website open source for the purpose of your inspiration, motivation, and curiosity.
 
-    Use the Gatsby CLI to create a new site, specifying the blog starter.
+However, my site is highly customized and almost everything is tailored to my personal needs. It's not simply a theme.
 
-    ```sh
-    # create a new Gatsby site using the blog starter
-    gatsby new my-blog-starter https://github.com/thomaswang/gatsby-personal-starter-blog
-    ```
+**Therefore, I highly encourage you to be creative and create your own theme, design and content of course.**
 
-1.  **Start developing.**
+The [Gatsby Advanced Starter](https://github.com/vagr9k/gatsby-advanced-starter/) is a great place to start, and is the base for this blog.
 
-    Navigate into your new site’s directory and start it up.
+## Features
 
-    ```sh
-    cd my-blog-starter/
-    gatsby develop
-    ```
+- Posts and pages in Markdown
+- Netlify CMS integrated
 
-1.  **Open the source code and start editing!**
+## Contribution
 
-    Your site is now running at `http://localhost:8000`!
+If you spot any typos or formatting errors in a post, or any other issue that
+needs to be addressed, please don't hesitate to open a pull request and fix it!
 
-    _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
+## Acknowledgements
 
-    Open the `my-blog-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
+- Ruben Harutyunyan - [Gatsby Advanced Starter](https://github.com/vagr9k/gatsby-advanced-starter/)
+- Muhammad Muhsin - [Using React Context API with Gatsby](https://www.gatsbyjs.org/blog/2019-01-31-using-react-context-api-with-gatsby/)
 
-## 🎓 Learning Gatsby
+## Special Thanks
+A very special thank you goes to [Tania Rascia](https://taniarascia.com) for giving me the tools and the inspiration to start my own blog.
 
-Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.gatsbyjs.org/). Here are some places to start:
+## Author
 
-- **For most developers, we recommend starting with our [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
+- [Sascha Fechner](https://developers-playground.com)
 
-- **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
+## License
 
-## 📔 Learning Netlify CMS with Gatsby
-
-Start from [this point](https://www.gatsbyjs.org/docs/sourcing-from-netlify-cms/#authenticating-with-github) in the Gatsby documentation to finish the set up for your personal Netlify CMS with authentication.
-
-## 💫 Deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thomaswangio/gatsby-personal-starter-blog)
-
-<!-- AUTO-GENERATED-CONTENT:END -->
+This project is open source and available under the [MIT License](LICENSE).
